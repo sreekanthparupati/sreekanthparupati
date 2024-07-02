@@ -11,7 +11,7 @@
 <!-- - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br> -->
 
 - 🤔 I use daily `.js`,` .css`, `.html`
-- 🛠 I’m currently learning about **MERN**🥰<br>
+- 🛠 I’m currently learning about **React js**🥰<br>
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
